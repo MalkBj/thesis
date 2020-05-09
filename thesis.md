@@ -1,3 +1,3 @@
 # My great thesis
 
-__Author: MalkBj
+Author: MalkBj
